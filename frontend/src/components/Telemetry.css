@@ -1,0 +1,13 @@
+.telemetry {
+    font-size: 1.2em;
+}
+
+.telemetry-heading {
+    font-size: 1.5em; 
+    margin: 10px 0 5px;
+}
+
+.telemetry-value {
+    font-size: 1.2em;
+    margin: 0 0 15px;
+}
